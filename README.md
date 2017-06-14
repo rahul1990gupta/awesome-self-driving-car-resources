@@ -3,6 +3,9 @@ This is a curated list of resources on self-driving car. Please send a Pull Requ
 want to add more awesome resources. 
 
 # Content
+## Companies involved in self-driving
+![self-driving-companies](self-driving-space.jpeg)
+
 ## Competitions
 We start with competitions, as we firmly believe in 
 [problem-based-learning](https://en.wikipedia.org/wiki/Problem-based_learning)
