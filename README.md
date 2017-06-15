@@ -14,6 +14,7 @@ We start with competitions, as we firmly believe in
    * [DeepTesla](http://selfdrivingcars.mit.edu/deeptesla/)
 * [Udacity DIDI Challenge](https://challenge.udacity.com/)
 * [Udacity open self-driving car challenge](https://www.udacity.com/self-driving-car)
+* [German Traffic Sign Challenge](https://inclass.kaggle.com/c/traffic-sign-recognition/data)
 
 ## Relevant Courses 
 * [Self-driving NanoDegree with Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
@@ -33,4 +34,14 @@ We start with competitions, as we firmly believe in
 * [Comma.ai's steering angle predictor with data](https://github.com/commaai/research)
 * [Comma.ai's open-source driving agent](https://github.com/commaai/openpilot)
 * [Medium Post by David Silver](https://medium.com/@dsilver829)
+* [Lex Fridman's Research page on Semi-autonomous vehicle](http://lexfridman.com/)
+* [Nvidia's Automotive Solution](http://www.nvidia.com/object/drive-px.html)
+    * [Nvidia Drive Px 2]() extends Palm-sized Auto-cruise module to autonomous driving capabilities.
+      Supercomputer for AI car. 
+    * [Nvidia DriveWorks](): SDK for Object detection, map localization and path planning.
+    * [Nvidia DGX-1](): Tesla v80 architecture (3x faster)
+    * [Nvidia MapWorks](): End to end HD mapping
+    * [Nvidia Co-pilot](): AI Copilot
+    * [Advanced Drive Assistance System](): ADAS. discern a police car from a taxi; an ambulance from a delivery 
+    truck; or a parked car from one that is about to pull out into traffic.
  
