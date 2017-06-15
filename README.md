@@ -14,7 +14,7 @@ We start with competitions, as we firmly believe in
    * [DeepTesla](http://selfdrivingcars.mit.edu/deeptesla/)
 * [Udacity DIDI Challenge](https://challenge.udacity.com/)
 * [Udacity open self-driving car challenge](https://www.udacity.com/self-driving-car)
-* [German Traffic Sign Challenge](https://inclass.kaggle.com/c/traffic-sign-recognition/data)
+* [German Traffic Sign Challenge](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset)
 
 ## Relevant Courses 
 * [Self-driving NanoDegree with Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
