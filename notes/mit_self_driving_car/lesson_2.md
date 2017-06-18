@@ -10,7 +10,7 @@
 * Two types of networks 
     * Feed-forward Neural Networks 
     * Recurrent Neural Networks        
-<img src="./rnn.png" alt="Drawing" style="width: 70px;"/>
+<img src="./rnn.png" alt="Drawing" style="width: 10px;"/>
       
 * Supervised learning is like a memorization. Give the set of input data and labels, it learns to
  do these tasks better. On the other hand, Reinforcement learning uses semi-supervised learning to
