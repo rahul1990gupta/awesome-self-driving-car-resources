@@ -25,6 +25,9 @@ We start with competitions, as we firmly believe in
 * [Cruise's Peter Gao talks about self-driving](https://www.youtube.com/watch?v=s-8cYj_eh8E)
 * [AI By the Bay](https://www.youtube.com/playlist?list=PLNESult6cnOk3Q8tjfSIWy49Fz37l0wZU)
     * [George Hotz on current state of self-driving](https://www.youtube.com/watch?v=IxuU5L2MEII)
+* [MobileEye's Youtube Channel](https://www.youtube.com/channel/UCnSW3S9jmHFYxI2ZCJXFFDQ)
+    * [Future of Autonomous Driving](https://www.youtube.com/watch?v=OAd4raCUxCo)
+       * Crowd-sourcing the driving path to driver around the world.  
 
 ## GitHub Assignments 
 * [Deep Learning with Udacity (Google) assignments](https://github.com/rndbrtrnd/udacity-deep-learning) 
