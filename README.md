@@ -20,6 +20,7 @@ We start with competitions, as we firmly believe in
 * [Self-driving NanoDegree with Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 * [MIT course on self-driving course](http://selfdrivingcars.mit.edu/)
 * [Deep learning with Udacity(Google)](https://www.udacity.com/course/deep-learning--ud730)
+* [Nvidia QuickLabs on how to integrated GPU into ur application](https://nvidia.qwiklab.com/catalog/)
 
 ## Video Talks 
 * [Cruise's Peter Gao talks about self-driving](https://www.youtube.com/watch?v=s-8cYj_eh8E)
